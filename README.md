@@ -1,2 +1,2 @@
 # webd152
-Beginning HTMAL/CSS class
+Beginning HTML/CSS class
