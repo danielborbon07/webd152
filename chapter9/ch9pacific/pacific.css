@@ -207,16 +207,16 @@ tr:nth-of-type(odd) {
         border: none; /* border: none */
         overflow: hidden; /* overflow: hidden */
     }
-    td.package ::before {
+    td.package::before {
         content: "Package: "; /* content: "Package: " */
     }
-    td.description ::before {
+    td.description::before {
         content: "Description: "; /* content: "Description: " */
     }
-    td.nights ::before {
+    td.nights::before {
         content: "Nights: "; /* content: "Nights: " */
     }
-    td.cost ::before {
+    td.cost::before {
         content: "Cost: "; /* content: "Cost: " */
     }
     .package, .description, .nights, .cost {
